@@ -43,7 +43,7 @@ if (name && name !== 'null') {
 		}
 
 		if (dbar == "bar"){
-			alert("The second you guys make it to the bar, there's a $13 dollar cocktail waiting for MJ. The guy nods his head over his direction. MJ looks at you to see if you can top his offer. You can't. She walks away and hangs out with homeboy with the finger guns while you drink a cranberry vod watching the game. Loser. DATE OVER!")
+			alert("The second you guys make it to the bar, there's a $13 dollar cocktail waiting for MJ. The guy nods his head over his direction. MJ looks at you to see if you can top his offer. You can't. She walks away and hangs out with homeboy with the finger guns while spend your last 4 bucks on a cranberry vod watching the game. Loser. DATE OVER!")
 		} else if (dbar == "table"){
 			alert("You guys choose to sit at the table so you follow the hostess through the dining area to where you'll be sitting. Finally time to get some food!")
 		}
